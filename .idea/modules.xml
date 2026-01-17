@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Module_1/Module_1.iml" filepath="$PROJECT_DIR$/Module_1/Module_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module_2/Module_2.iml" filepath="$PROJECT_DIR$/Module_2/Module_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module_3/Module_3.iml" filepath="$PROJECT_DIR$/Module_3/Module_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module_4/Module_4.iml" filepath="$PROJECT_DIR$/Module_4/Module_4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module_5/Module_5.iml" filepath="$PROJECT_DIR$/Module_5/Module_5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Module_6/Module_6.iml" filepath="$PROJECT_DIR$/Module_6/Module_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module1_Generics/Module1_Generics.iml" filepath="$PROJECT_DIR$/Module1_Generics/Module1_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2_Lists/Module2_Lists.iml" filepath="$PROJECT_DIR$/Module2_Lists/Module2_Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module3_StackQueue/Module3_StackQueue.iml" filepath="$PROJECT_DIR$/Module3_StackQueue/Module3_StackQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module4_Trees/Module4_Trees.iml" filepath="$PROJECT_DIR$/Module4_Trees/Module4_Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module5_HashMap/Module5_HashMap.iml" filepath="$PROJECT_DIR$/Module5_HashMap/Module5_HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module6_Graphs/Module6_Graphs.iml" filepath="$PROJECT_DIR$/Module6_Graphs/Module6_Graphs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Social_Network.iml" filepath="$PROJECT_DIR$/Social_Network.iml" />
     </modules>
   </component>
