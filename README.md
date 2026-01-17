@@ -56,7 +56,7 @@ See the difference? Feel the difference!"
 - ✅ **Complete**: Covers entire Data Structures curriculum
 - ✅ **Hands-on**: Working code, not just theory
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```
 campus-social-network/
