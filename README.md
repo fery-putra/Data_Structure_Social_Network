@@ -21,7 +21,7 @@ A comprehensive, hands-on Java project series designed to teach **Data Structure
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## 🎯 Overview
+## Overview
 
 This project teaches data structures by building features of a **Campus Social Network** that students interact with daily. Each module builds upon the previous one, creating a complete system by the end.
 
