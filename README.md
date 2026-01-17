@@ -64,40 +64,32 @@ campus-social-network/
 ├── Module1_Generics/
 │   ├── src/
 │   │   └── CampusSocialNetworkModule1.java
-│   └── README.md
+│   └── M1_README.md
 │
 ├── Module2_Lists/
 │   ├── src/
 │   │   └── CampusSocialNetworkModule2.java
-│   └── README.md
+│   └── M2_README.md
 │
 ├── Module3_StackQueue/
 │   ├── src/
 │   │   └── CampusSocialNetworkModule3.java
-│   └── README.md
+│   └── M3_README.md
 │
 ├── Module4_Trees/
 │   ├── src/
 │   │   └── CampusSocialNetworkModule4.java
-│   └── README.md
+│   └── M4_README.md
 │
 ├── Module5_HashMap/
 │   ├── src/
 │   │   └── CampusSocialNetworkModule5.java
-│   └── README.md
+│   └── M5_README.md
 │
 ├── Module6_Graphs/
 │   ├── src/
 │   │   └── CampusSocialNetworkModule6.java
-│   └── README.md
-│
-├── docs/
-│   ├── Module1_Explanation.md
-│   ├── Module2_Explanation.md
-│   ├── Module3_Explanation.md
-│   ├── Module4_Explanation.md
-│   ├── Module5_Explanation.md
-│   └── Module6_Explanation.md
+│   └── M6_README.md
 │
 ├── README.md
 └── LICENSE
@@ -121,7 +113,7 @@ campus-social-network/
 - `CampusSocialNetworkModule1.java` - Complete implementation
 - `docs/Module1_Explanation.md` - Detailed theory
 
-[📘 View Module 1 Details](Module1_Generics/README.md)
+[📘 View Module 1 Details](Module1_Generics/M1_README.md)
 
 ---
 
@@ -141,7 +133,7 @@ campus-social-network/
 - `CampusSocialNetworkModule2.java` - Complete implementation
 - `docs/Module2_Explanation.md` - Detailed theory
 
-[📘 View Module 2 Details](Module2_Lists/README.md)
+[📘 View Module 2 Details](Module2_Lists/M2_README.md)
 
 ---
 
@@ -161,7 +153,7 @@ campus-social-network/
 - `CampusSocialNetworkModule3.java` - Complete implementation
 - `docs/Module3_Explanation.md` - Detailed theory
 
-[📘 View Module 3 Details](Module3_StackQueue/README.md)
+[📘 View Module 3 Details](Module3_StackQueue/M3_README.md)
 
 ---
 
@@ -181,7 +173,7 @@ campus-social-network/
 - `CampusSocialNetworkModule4.java` - Complete implementation
 - `docs/Module4_Explanation.md` - Detailed theory
 
-[📘 View Module 4 Details](Module4_Trees/README.md)
+[📘 View Module 4 Details](Module4_Trees/M4_README.md)
 
 ---
 
@@ -201,7 +193,7 @@ campus-social-network/
 - `CampusSocialNetworkModule5.java` - Complete implementation
 - `docs/Module5_Explanation.md` - Detailed theory
 
-[📘 View Module 5 Details](Module5_HashMap/README.md)
+[📘 View Module 5 Details](Module5_HashMap/M5_README.md)
 
 ---
 
@@ -222,7 +214,7 @@ campus-social-network/
 - `CampusSocialNetworkModule6.java` - Complete implementation
 - `docs/Module6_Explanation.md` - Detailed theory
 
-[📘 View Module 6 Details](Module6_Graphs/README.md)
+[📘 View Module 6 Details](Module6_Graphs/M6_README.md)
 
 ---
 
@@ -253,10 +245,10 @@ Should show version 8 or higher (e.g., `java version "17.0.1"`)
 ### Option 1: Clone the Repository
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/campus-social-network.git
+git clone https://github.com/yourusername/Data_Structure_Social_Network.git
 
 # Navigate to the project
-cd campus-social-network
+cd Data_Structure_Social_Network
 ```
 
 ### Option 2: Download ZIP
@@ -557,12 +549,6 @@ This project is **perfect for teaching**:
 - To educators who will teach with this
 - To contributors who will improve this
 
-## 📞 Contact & Support
-
-### Questions?
-- 💬 Open an [Issue](https://github.com/yourusername/campus-social-network/issues)
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ### Stay Updated
 - ⭐ Star this repository
