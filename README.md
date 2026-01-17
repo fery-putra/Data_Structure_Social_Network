@@ -33,7 +33,7 @@ This project teaches data structures by building features of a **Campus Social N
 - 🔍 Interest-based matching (HashMap)
 - 🌐 Social network analysis (Graphs)
 
-## 💡 Why This Project?
+## Why This Project?
 
 ### Traditional Approach ❌
 ```
@@ -56,7 +56,7 @@ See the difference? Feel the difference!"
 - ✅ **Complete**: Covers entire Data Structures curriculum
 - ✅ **Hands-on**: Working code, not just theory
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 campus-social-network/
@@ -95,7 +95,7 @@ campus-social-network/
 └── LICENSE
 ```
 
-## 📖 Modules
+## Modules
 
 ### Module 1: Java Generics & Enums
 **What You'll Learn:**
@@ -240,7 +240,7 @@ java -version
 
 Should show version 8 or higher (e.g., `java version "17.0.1"`)
 
-## 📥 Installation
+## Installation
 
 ### Option 1: Clone the Repository
 ```bash
@@ -285,7 +285,7 @@ cd Data_Structure_Social_Network
 5. Open the `.java` file
 6. Click **Run** button or press **F5**
 
-## 🚀 Usage
+## Usage
 
 ### Running Individual Modules
 
@@ -379,7 +379,7 @@ HashMap<String, ArrayList<Message>> groupChats;
 // (friends of friends not yet connected)
 ```
 
-## 📚 Learning Path
+## Learning Path
 
 ### For Complete Beginners
 
@@ -410,7 +410,7 @@ HashMap<String, ArrayList<Message>> groupChats;
 4. **Draw diagrams** - Visualize data structures on paper
 5. **Teach others** - Best way to solidify understanding
 
-## 🎓 Key Concepts Covered
+## Key Concepts Covered
 
 ### Data Structures
 - ✅ Generics & Type Safety
@@ -447,7 +447,7 @@ HashMap<String, ArrayList<Message>> groupChats;
 - ✅ Generic Programming
 - ✅ Enumerations
 
-## 🎯 Real-World Applications
+## Real-World Applications
 
 Each module teaches concepts used in actual applications:
 
@@ -462,7 +462,7 @@ Each module teaches concepts used in actual applications:
 | **HashMap** | Caching, Databases, Symbol tables, Counting |
 | **Graphs** | Social networks, GPS, Recommendation systems |
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -494,7 +494,7 @@ Contributions are welcome! Here's how you can help:
 - 🐛 Fix bugs
 - ✨ Improve code efficiency
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -506,7 +506,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ⚠️ Provide attribution
 - ❌ Hold author liable
 
-## 👨‍🏫 For Educators
+## For Educators
 
 This project is **perfect for teaching**:
 
@@ -532,7 +532,7 @@ This project is **perfect for teaching**:
 - **Code Review**: Students review each other's modifications
 - **Whiteboard Sessions**: Draw data structures before coding
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 ### Inspiration
 - Real social networks (Facebook, Twitter, LinkedIn)
@@ -555,7 +555,7 @@ This project is **perfect for teaching**:
 - 👀 Watch for updates
 - 🍴 Fork to customize
 
-## 🗺️ Roadmap
+## Roadmap
 
 ### Planned Features
 - [ ] Module 7: Advanced Trees (Red-Black, B-Trees)
