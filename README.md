@@ -111,7 +111,7 @@ campus-social-network/
 
 **Key Files:**
 - `CampusSocialNetworkModule1.java` - Complete implementation
-- `docs/Module1_Explanation.md` - Detailed theory
+- `M1_README.md` - Detailed theory
 
 [📘 View Module 1 Details](Module1_Generics/M1_README.md)
 
@@ -131,7 +131,7 @@ campus-social-network/
 
 **Key Files:**
 - `CampusSocialNetworkModule2.java` - Complete implementation
-- `docs/Module2_Explanation.md` - Detailed theory
+- `M2_README.md` - Detailed theory
 
 [📘 View Module 2 Details](Module2_Lists/M2_README.md)
 
@@ -151,7 +151,7 @@ campus-social-network/
 
 **Key Files:**
 - `CampusSocialNetworkModule3.java` - Complete implementation
-- `docs/Module3_Explanation.md` - Detailed theory
+- `M3_README.md` - Detailed theory
 
 [📘 View Module 3 Details](Module3_StackQueue/M3_README.md)
 
@@ -171,7 +171,7 @@ campus-social-network/
 
 **Key Files:**
 - `CampusSocialNetworkModule4.java` - Complete implementation
-- `docs/Module4_Explanation.md` - Detailed theory
+- `M4_README.md` - Detailed theory
 
 [📘 View Module 4 Details](Module4_Trees/M4_README.md)
 
@@ -191,7 +191,7 @@ campus-social-network/
 
 **Key Files:**
 - `CampusSocialNetworkModule5.java` - Complete implementation
-- `docs/Module5_Explanation.md` - Detailed theory
+- `M5_README.md` - Detailed theory
 
 [📘 View Module 5 Details](Module5_HashMap/M5_README.md)
 
@@ -212,7 +212,7 @@ campus-social-network/
 
 **Key Files:**
 - `CampusSocialNetworkModule6.java` - Complete implementation
-- `docs/Module6_Explanation.md` - Detailed theory
+- `M6_README.md` - Detailed theory
 
 [📘 View Module 6 Details](Module6_Graphs/M6_README.md)
 
